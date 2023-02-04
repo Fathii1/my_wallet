@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "781614704351",
+    "project_id": "fatxilogin-460b4",
+    "storage_bucket": "fatxilogin-460b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781614704351:android:5ede43047e03fbaf4a2b6a",
+        "android_client_info": {
+          "package_name": "com.example.fatxilogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781614704351-ma6l9har9doa0ctisrvv29qinigfhdsf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASZXXFb9EVVRdXHoNzdRjc9V9XrN0Q26I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781614704351-ma6l9har9doa0ctisrvv29qinigfhdsf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "781614704351-3eb2ok0n03a0eooav2i2su8n7lfq0jse.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fatxilogin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781614704351:android:19321e63765650d14a2b6a",
+        "android_client_info": {
+          "package_name": "com.example.my_wallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781614704351-ma6l9har9doa0ctisrvv29qinigfhdsf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASZXXFb9EVVRdXHoNzdRjc9V9XrN0Q26I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781614704351-ma6l9har9doa0ctisrvv29qinigfhdsf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "781614704351-3eb2ok0n03a0eooav2i2su8n7lfq0jse.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fatxilogin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
